@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidGradleBuildConfiguration">
-    <option name="SYNC_PROJECT_BEFORE_BUILD" value="true" />
-  </component>
   <component name="AndroidLayouts">
     <shared>
       <config />
@@ -13,28 +10,56 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7b1a91-767f-4e70-8dbe-7bfc5839c72a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_common_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_common_ktx_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_runtime_3_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_runtime_ktx_3_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_rxjava3_3_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_common_3_0_0_beta03.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_common_ktx_3_0_0_beta03.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_runtime_3_0_0_beta03_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_runtime_ktx_3_0_0_beta03_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_paging_paging_rxjava3_3_0_0_beta03_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_0_beta02_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_71828_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_71828_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/NewsCycle.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/NewsCycle.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/newscycle/Article.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/newscycle/Article.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsCycle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NewsCycle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/newscycle/data/ArticleListRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/newscycle/data/ArticleListRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[196e1b05]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\dusha\.android\avd\..\avd\Pixel_5_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -70,6 +95,14 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1YPcInE2BNV2zJkaCx43QhY7HbO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -99,7 +132,7 @@
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/newscycle" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="multi-representation-previewC:/Users/knightnight101/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/knightnight101/AppData/Local/Android/Sdk/sources/android-28/android/widget/EditText.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/knightnight101/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
@@ -144,6 +177,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArticleListViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="NewsCycle.app" />
       <shortenClasspath name="MANIFEST" />
@@ -213,13 +253,6 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="NewsCycle.app" />
       <option name="DEPLOY" value="true" />
@@ -228,6 +261,7 @@
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -277,15 +311,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Android JUnit.AuthUtilTest" />
-        <item itemvalue="Android JUnit.AuthUtilTest.valid login, return true" />
-        <item itemvalue="Android JUnit.LoginViewModelTest" />
-        <item itemvalue="Android JUnit.ArticleListViewModelTest" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -506,7 +533,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Added Home skeleton, login button set to auto advance" />
     <MESSAGE value="Implemented override methods in Main recycler view adapter" />
     <MESSAGE value="changed home screen menu by utilizing drawable utility syntax, change background, and adjusted button styling" />
     <MESSAGE value="Adjusted layout, fixing button positioning" />
@@ -531,147 +557,9 @@
     <MESSAGE value="Blue Screen of Death" />
     <MESSAGE value="Functions added: Search with filters, topics, create account, pager transition, activity transition, created edit feed page, and etc" />
     <MESSAGE value="Removed unnecessary files, made attempts at implementing final feature however that failed due to a bug. All other features completed and UI updated for accuracy." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary files, made attempts at implementing final feature however that failed due to a bug. All other features completed and UI updated for accuracy." />
+    <MESSAGE value="remove unnecessary live data function in articleListRepository and update paging gradle version" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unnecessary live data function in articleListRepository and update paging gradle version" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2484" y="73" key="#ArticleListViewModelTest" timestamp="1618860855516">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2484" y="73" key="#ArticleListViewModelTest/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618860855516" />
-    <state x="2296" y="258" key="#PSD" timestamp="1617433007596">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2296" y="258" key="#PSD/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617433007596" />
-    <state x="2012" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1618868804281">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2012" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618868804281" />
-    <state x="2586" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618527809676">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2586" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618527809676" />
-    <state x="2659" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1618809828864">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2659" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618809828864" />
-    <state x="2610" y="295" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1617476505092">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2610" y="295" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617476505092" />
-    <state x="2609" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618961137247">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2609" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618961137247" />
-    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617559456082">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617559456082" />
-    <state x="2581" y="286" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1618526009921">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2581" y="286" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618526009921" />
-    <state x="2622" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1618873616493">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2622" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618873616493" />
-    <state x="2762" y="100" width="981" height="840" key="AVDManager" timestamp="1617417661171">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2762" y="100" width="981" height="840" key="AVDManager/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617417661171" />
-    <state x="2460" y="274" key="AndroidCreateResourceFileDialog" timestamp="1618779358444">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2460" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618779358444" />
-    <state x="2677" y="256" key="AndroidProcessChooserDialog" timestamp="1618782950195">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2677" y="256" key="AndroidProcessChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618782950195" />
-    <state x="1920" y="99" key="CommitChangelistDialog2" timestamp="1610486467046">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1920" y="99" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610486467046" />
-    <state x="2559" y="266" key="FileChooserDialogImpl" timestamp="1610227451023">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2559" y="266" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610227451023" />
-    <state width="1877" height="259" key="GridCell.Tab.0.bottom" timestamp="1619115731379">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619115731379" />
-    <state width="1877" height="259" key="GridCell.Tab.0.center" timestamp="1619115731379">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="259" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619115731379" />
-    <state width="1877" height="259" key="GridCell.Tab.0.left" timestamp="1619115731379">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="259" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619115731379" />
-    <state width="1877" height="259" key="GridCell.Tab.0.right" timestamp="1619115731379">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="259" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619115731379" />
-    <state width="1877" height="265" key="GridCell.Tab.1.bottom" timestamp="1618949176822">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618949176822" />
-    <state width="1877" height="265" key="GridCell.Tab.1.center" timestamp="1618949176821">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618949176821" />
-    <state width="1877" height="265" key="GridCell.Tab.1.left" timestamp="1618949176821">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618949176821" />
-    <state width="1877" height="265" key="GridCell.Tab.1.right" timestamp="1618949176821">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="265" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618949176821" />
-    <state x="2779" y="456" key="LayoutInspector.WindowPicker.Options.Dimensions" timestamp="1618782957602">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2779" y="456" key="LayoutInspector.WindowPicker.Options.Dimensions/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618782957602" />
-    <state x="2553" y="241" key="RollbackChangesDialog" timestamp="1618808471101">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2553" y="241" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618808471101" />
-    <state x="2842" y="99" key="SettingsEditor" timestamp="1618526793314">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2842" y="99" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618526793314" />
-    <state x="2472" y="248" key="Vcs.Push.Dialog.v2" timestamp="1610486483905">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2472" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610486483905" />
-    <state x="2688" y="298" key="chooseDestDirectoryDialog" timestamp="1618946466409">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2688" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618946466409" />
-    <state x="2594" y="95" width="959" height="849" key="find.popup" timestamp="1618528004926">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2594" y="95" width="959" height="849" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618528004926" />
-    <state width="587" height="121" key="javadoc.popup.new" timestamp="1619115424899">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="587" height="121" key="javadoc.popup.new/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619115424899" />
-    <state width="587" height="224" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1617228327611" />
-    <state x="2651" y="180" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1618946466514">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2651" y="180" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618946466514" />
-    <state x="2704" y="287" key="refactoring.ChangeSignatureDialog" timestamp="1618952091016">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2704" y="287" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618952091016" />
-    <state x="2536" y="240" key="run.anything.popup" timestamp="1618871944759">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618871944759" />
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618875015796">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618875015796" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -713,9 +601,7 @@
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
-        <PinnedItemInfo typeName="com.newscycle.SourcesArrayAdapter" fieldName="sources" />
-        <PinnedItemInfo typeName="com.newscycle.EditFeed" fieldName="sources" />
-        <PinnedItemInfo typeName="com.newscycle.EditFeed" fieldName="values" />
+        <PinnedItemInfo />
       </pinned-members>
     </pin-to-top-manager>
   </component>
