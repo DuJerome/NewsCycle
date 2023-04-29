@@ -18,7 +18,7 @@ This Android App is used to browse the news, focusing on what is highest interes
 
 ### What has been implemented:
 
-- Login and New User Registration, Password Recovery with **Firebase**
+- Login and New User Registration
 
 - Homepage design
 
